@@ -1,1 +1,2 @@
-# pro-mern-stack
+# issue-tracker
+A basic crud ticketing and bug-tracking system
